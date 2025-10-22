@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+packages/
+*.nupkg
+*.snupkg
+*.log
+.idea/
