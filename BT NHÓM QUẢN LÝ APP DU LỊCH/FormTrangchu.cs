@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace BT_NHÓM_QUẢN_LÝ_APP_DU_LỊCH
+{
+    public partial class FormTrangchu : Form
+    {
+        public FormTrangchu()
+        {
+            InitializeComponent();
+        }
+    }
+}
